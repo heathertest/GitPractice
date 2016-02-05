@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 I was born ready...
 fight me.
+=======
+GIT PRACTICEEEEE NOOT!
+
+heather wuz here
+>>>>>>> 0fceb3b7e14bb44ede8a1f7a319f1e13b714bb8c
